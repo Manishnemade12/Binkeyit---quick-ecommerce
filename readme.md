@@ -37,8 +37,8 @@
 - **MongoDB** database
 - **Node.js** and **Express.js** server
 - RESTful APIs
-- **Resend** integration (for email notifications like order confirmations)
-
+- **Resend** integration
+  
 ### 🎨 Frontend Tech
 - **React.js** with Tailwind CSS
 - Fully responsive design
@@ -54,7 +54,7 @@
 - **Authentication**: JWT (Access + Refresh Tokens)
 - **Payments**: Stripe
 - **Email**: Resend
-- **State Management**: React Context / Redux (based on your setup)
+- **State Management**: React Context
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### 🔧 Prerequisites
 - Node.js
-- MongoDB (local or cloud)
+- MongoDB 
 - Stripe account
 - Resend API key
 
